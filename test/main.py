@@ -130,6 +130,5 @@ class myApp(App):
         
         return sm
 
-if __name__ == '__main__':
-    myApp().run()
+myApp().run()
 
